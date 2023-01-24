@@ -1,0 +1,37 @@
+div{
+    font-family: Arial;
+}
+#displaytext{
+    width: 500px;
+    height: 37px;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+#typing-bar{
+    width: 500px;
+    margin-top: 10px;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 3px;
+
+}
+
+
+.container{
+    display: grid;
+    place-items: center;
+
+}
+
+.typing-items{
+    margin-top: 20px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 13px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
