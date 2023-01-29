@@ -16,10 +16,10 @@
 ![third print](https://github.com/PeterBaptista/TypingTest/blob/main/website%20photos/type-website%20(2).png)
 <br><br>
 
->You'll do this until the timer goes "0:00", and then it will show how many words per minute you can time
+>You'll do this until the timer goes "0:00", and then it will show how many words per minute you can type
 <br>
 
 ![last print](https://github.com/PeterBaptista/TypingTest/blob/main/website%20photos/type-website%20(3).png)
 
 
-Well, I hope you liked it
+Well, I hope you liked it!
