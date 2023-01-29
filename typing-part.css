@@ -7,10 +7,10 @@ div{
     margin-bottom: 10px;
     overflow: hidden;
 }
-
-#typing-bar{
-    width: 500px;
-    margin-top: 10px;
+    
+    #typing-bar{
+        width: 500px;
+        margin-top: 10px;
     font-size: 20px;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -34,4 +34,14 @@ div{
     padding-bottom: 20px;
     padding-right: 20px;
     padding-top: 20px;
+}
+
+#start-button{
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+#time-display{
+    font-size: 30px;
+    margin-right: 450px;
 }
