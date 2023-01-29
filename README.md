@@ -7,7 +7,7 @@
 >First you type the fisrt word of the sentence.
 <br><br>
 
-![second print](https://github.com/PeterBaptista/TypingTest/blob/main/website%20photos/type-wesbsite%20(1).png)
+![second print](https://github.com/PeterBaptista/TypingTest/blob/main/website%20photos/type-website%20(1).png)
 <br><br>
 
 >until it's the correct word and it turns green saying that if you press space-bar you'll go to the next word
@@ -16,7 +16,7 @@
 ![third print](https://github.com/PeterBaptista/TypingTest/blob/main/website%20photos/type-website%20(2).png)
 <br><br>
 
->You'll do this until it's finished, although it's not complete the website.
+>You'll do this until the timer goes "0:00", and the it will show how many words per minute you can time
 <br>
 
 ![last print](https://github.com/PeterBaptista/TypingTest/blob/main/website%20photos/type-website%20(3).png)
