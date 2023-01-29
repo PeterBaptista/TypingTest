@@ -4,14 +4,12 @@
 
 ![first print](https://github.com/PeterBaptista/TypingTest/blob/main/website%20photos/type-website.png)
 
->you need to type the word that is highlighted in red.
+>you need to type the word that is highlighted in red until it's the correct word and it turns green saying that if you press space-bar you'll go to the next word
 <br><br>
 
 ![second print](https://github.com/PeterBaptista/TypingTest/blob/main/website%20photos/type-website%20(1).png)
 <br><br>
 
->until it's the correct word and it turns green saying that if you press space-bar you'll go to the next word
-<br>
 
 ![third print](https://github.com/PeterBaptista/TypingTest/blob/main/website%20photos/type-website%20(2).png)
 <br><br>
