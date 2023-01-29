@@ -16,7 +16,7 @@
 ![third print](https://github.com/PeterBaptista/TypingTest/blob/main/website%20photos/type-website%20(2).png)
 <br><br>
 
->You'll do this until the timer goes "0:00", and the it will show how many words per minute you can time
+>You'll do this until the timer goes "0:00", and then it will show how many words per minute you can time
 <br>
 
 ![last print](https://github.com/PeterBaptista/TypingTest/blob/main/website%20photos/type-website%20(3).png)
