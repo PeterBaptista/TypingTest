@@ -4,7 +4,7 @@
 
 ![first print](https://github.com/PeterBaptista/TypingTest/blob/main/website%20photos/type-website.png)
 
->First you type the fisrt word of the sentence.
+>you need to type the word that is highlighted in red.
 <br><br>
 
 ![second print](https://github.com/PeterBaptista/TypingTest/blob/main/website%20photos/type-website%20(1).png)
